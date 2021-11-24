@@ -8,16 +8,12 @@ Banking application allows the users to submit their details and then the users 
  
 
 
-Build | Code Quality | Unity | [code Inspector](using github.io option) |Code Coverage
+Build | Code Coverage | Cpp Check | [Git Inspector](using github.io option) |Unit Testing
 ------|---------------|-------|--------------|--------------
-|[![BUILD](https://github.com/MSDhanush17/M1_Banking_Management-System/actions/workflows/Build.yml/badge.svg)](https://github.com/MSDhanush17/M1_Banking_Management-System/actions/workflows/Build.yml)|
-
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/932e2306910a4c67ae81d8cde2a3d273)](https://www.codacy.com/gh/Narasimha9592/Stepin_Bankmanagement/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Narasimha9592/Stepin_Bankmanagement&amp;utm_campaign=Badge_Grade)
+|[![BUILD](https://github.com/MSDhanush17/M1_Banking_Management-System/actions/workflows/Build.yml/badge.svg)](https://github.com/MSDhanush17/M1_Banking_Management-System/actions/workflows/Build.yml)|[![Code Coverage](https://github.com/MSDhanush17/M1_Banking_Management-System/actions/workflows/code_coverage.yml/badge.svg)](https://github.com/MSDhanush17/M1_Banking_Management-System/actions/workflows/code_coverage.yml)|[![Cpp check](https://github.com/MSDhanush17/M1_Banking_Management-System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/MSDhanush17/M1_Banking_Management-System/actions/workflows/cppcheck.yml)|[![Git Inspector](https://github.com/MSDhanush17/M1_Banking_Management-System/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/MSDhanush17/M1_Banking_Management-System/actions/workflows/Git_Inspector.yml)|[![Unit Testing](https://github.com/MSDhanush17/M1_Banking_Management-System/actions/workflows/unit_test.yml/badge.svg)](https://github.com/MSDhanush17/M1_Banking_Management-System/actions/workflows/unit_test.yml)|
 
 
-[![Git Inspector](https://github.com/Narasimha9592/Stepin_Bankmanagement/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/Narasimha9592/Stepin_Bankmanagement/actions/workflows/Git_Inspector.yml)
 
-<image src="https://www.code-inspector.com/project/27662/status/svg" alt="code grade" />
 
 ## FOLDER STRUCTURE
 
@@ -32,7 +28,7 @@ Folder             | Description
 
 SF ID. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-99006085 | Dasineni Srinarasimha  | BanKing Management(Deposit, withdraw,et..)    |  No     |  No   | 4   | 4     
+40020625 | Mogilisetti Sai Dhanush  | BanKing Management(Deposit, withdraw,et..)    |  No     |  No   | 4   | 4     
    
 
 
