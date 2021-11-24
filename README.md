@@ -3,7 +3,7 @@
 Banking application allows the users to submit their details and then the users will be able to deposit the amount or withdraw the amount.The users will also be able to search for the information of their account.The application will also be able to display all the users.The application is easy to use and saves time.
 
 
-![image](https://user-images.githubusercontent.com/89722310/132219352-3ca5db26-d17d-4cb1-8d42-9438b3ed0e3e.png)
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iedunote.com%2Fbank-management&psig=AOvVaw0lUMPxhOJpXkSpnlKu26NV&ust=1637860241742000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODZjIO_sfQCFQAAAAAdAAAAABAD)
 
  
 
