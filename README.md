@@ -10,7 +10,7 @@ Banking application allows the users to submit their details and then the users 
 
 Build | Code Quality | Unity | [code Inspector](using github.io option) |Code Coverage
 ------|---------------|-------|--------------|--------------
-
+|[![BUILD](https://github.com/MSDhanush17/M1_Banking_Management-System/actions/workflows/Build.yml/badge.svg)](https://github.com/MSDhanush17/M1_Banking_Management-System/actions/workflows/Build.yml)|
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/932e2306910a4c67ae81d8cde2a3d273)](https://www.codacy.com/gh/Narasimha9592/Stepin_Bankmanagement/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Narasimha9592/Stepin_Bankmanagement&amp;utm_campaign=Badge_Grade)
 
