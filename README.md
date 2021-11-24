@@ -45,8 +45,8 @@ SF ID. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 
 ## LEARNING RESOURCES
 
-1.geekforgeeks
+1.Youtube
 
-2.tutorial point
+2.geeksforgeeks
 
 
